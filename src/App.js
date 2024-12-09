@@ -1,13 +1,13 @@
 import './App.css';
 import './styles.css';
 import React from 'react'
-import {BrowserRouter, Routes, Route } from 'react-router-dom';
+import {HashRouter, Routes, Route } from 'react-router-dom';
 import {Home, Altran, Apple, Ibm, Merative} from './components'
 
 function App() {
   return (
     <div className='App'>
-        <BrowserRouter>
+        <HashRouter>
           <Routes>
             <Route path='' element={<Home></Home>}/>
 
@@ -16,7 +16,7 @@ function App() {
             <Route path='/ibm' element={ <Ibm/>} />
             <Route path='/merative' element={ <Merative/>} />
           </Routes>
-        </BrowserRouter>
+        </HashRouter>
 
       </div>
   );
