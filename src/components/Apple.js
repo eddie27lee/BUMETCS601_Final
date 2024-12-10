@@ -18,7 +18,9 @@ function InventoryList(props) {
                     </div>
                     <div>
                         <p class="project-text">My current position is at Apple, where I am
-                        a DevOps engineer contractor.
+                        a DevOps engineer contractor. My team manages the asset releases for Siri, automating the schedule
+                        for qualifying and releasing assets. My primary responsibilities include troubleshooting asset download failures,
+                        tracking deployments, configuring smoketests, and developing automation to improve our processes.
                         </p>
                     </div>
 

@@ -18,7 +18,10 @@ function InventoryList(props) {
                     </div>
                     <div>
                         <p class="project-text">My first professional position was at IBM, where I began
-                        working as a DevOps engineer.
+                        working as a DevOps engineer. My first project was using Ansible to develop automation to backup all of the Jenkins
+                        instances on a weekly basis. I would then go on to manage the GitHub administration, along with developing automation
+                        to help with the process, such as creating nightly utilization metrics reports. Finally, I would manage the 
+                        migration from IBM to Merative, communicating with managers to organize and validate all of our repositories. 
                         </p>
                     </div>
 

@@ -18,7 +18,8 @@ function InventoryList(props) {
                     </div>
                     <div>
                         <p class="project-text">My previous position was at Merative, where I transitioned
-                        to from IBM.
+                        to from IBM. Here I would continue to maintain and improve on the automation that I had created
+                        at IBM. I would also develop automation for a weekly report on CVE violations from GitHub and JFrog REST APIs using Groovy.
                         </p>
                     </div>
 

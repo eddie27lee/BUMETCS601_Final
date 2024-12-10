@@ -17,7 +17,8 @@ function InventoryList(props) {
                         
                     </div>
                     <div>
-                        <p class="project-text">My first position was at Altran.
+                        <p class="project-text">My first position was at Altran. Here, I used React to designed and develop a database-driven project management application.
+                            I also used C# to implement middleware to serve the REST API, enabling communication between the UI and database.
                         </p>
                     </div>
 
